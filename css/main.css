@@ -1,0 +1,22 @@
+body {
+    margin-top: 60px;
+  }
+
+
+.container {
+    background-color: #eee;
+}
+
+.list_data {
+    width: 680px;
+}
+
+.main h1 {
+    font-size: 63px;
+    margin-top: 60px;
+}
+
+.list_data p {
+    margin-top: 30px;
+    font-size: 21px;
+}
